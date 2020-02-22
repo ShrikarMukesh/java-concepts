@@ -15,7 +15,7 @@ public class Main1 {
             System.out.println(this.getId());
             System.out.println(this.getStackTrace());
             System.out.println(this.getThreadGroup());
-
+            System.out.println(this.getName());
         }
     }
 }
